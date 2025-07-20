@@ -1,7 +1,7 @@
 import React from "react";
 import logo from "../assets/logo.png";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
-import resume from "../assets/Resume.pdf"; // Import the resume PDF file
+import resume from "../assets/KhuzaimaAhsan.pdf"; // Import the resume PDF file
 
 const Navbar = () => {
   return (
